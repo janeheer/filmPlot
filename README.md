@@ -34,3 +34,5 @@ A collection of our metadata materials as composed into data visualizations via 
 
 ![Funding Sources plot](FundingSourcePlot.png)
 ![Journal Name plot](JournalNamePlot.png)
+![Data Deposited Plot](DataDepositedPlot.png)
+![Publication Year Plot](PublicationYearPlot.png)

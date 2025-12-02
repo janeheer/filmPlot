@@ -1,7 +1,6 @@
 # Film Archival Metadata
 This project contains a collection of journal articles related to the field of film and media archivial techiniques and practices. Those articles have been coded and uploaded to the # Coding_Template.xlsx file. 
 
-
 # Organization of the Coding_Template.xlsx
 The columns of the xlsx file are located below and they indicate the following:
 
@@ -27,8 +26,10 @@ The columns of the xlsx file are located below and they indicate the following:
 
 **Funding Source** - The source of funding for the article if disclosed and published
 
+# Credits
 This collaborative metadata project was completed by Jane Montañez, Sofia Milat, and Elder Hernandez for a UCLA's Information Studies Department, Data Managment course.
 
+# Data Visualizations
 A collection of our metadata materials as composed into data visualizations via python are collected and annotated below:
 
 ![Funding Sources plot](FundingSourcePlot.png)

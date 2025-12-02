@@ -1,4 +1,4 @@
-# filmPlot
+# Film Archival Metadata
 This project contains a collection of journal articles related to the field of film and media archivial techiniques and practices. Those articles have been coded and uploaded to the # Coding_Template.xlsx file. 
 
 The columns of the xlsx file are located below and they indicate the following:

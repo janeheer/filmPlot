@@ -3,7 +3,7 @@ This project contains a collection of journal articles related to the field of f
 
 The columns of the xlsx file are located below and they indicate the following:
 
-**DOI/URL** - The DOI of the article if one exists, or a URL if none is found
+**DOI/URL** - The DOI of the article if one exists, or a URL if none is found 
 **Title	Author** - The Author(s) of the article
 **Journal Name** - The Journal of record the article was obtained from or located in
 **Publication Year** - The year of publication of the article
